@@ -1,0 +1,53 @@
+
+div{
+    width: 1200px;
+    margin: 20px auto;
+    font-family: Verdana;
+    width: 930px;
+    text-align: center;
+    
+}
+
+h1{
+    color: black;
+    border: 1px solid;
+    font-style: normal;
+    font-weight: 100px;
+    border-radius: 10px;
+    margin: 0;
+    text-align: center;
+    
+
+}
+h2{
+    color: black;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 0;
+    text-align: left;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+    border: 5px solid;
+    border-color: greenyellow;
+    background-color: greenyellow;
+    border-radius: 80px;
+    
+}
+
+span{
+    text-decoration: underline;
+    border: 10px solid white;
+}
+
+P{
+    text-align: center;
+    width: 800px;
+    border-bottom: 2px ;
+  
+
+}
+
